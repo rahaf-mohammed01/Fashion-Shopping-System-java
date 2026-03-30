@@ -88,5 +88,4 @@ The application includes:
 
 
 
-## 📚 Notes
-This project is a simulation of a real-world fashion shopping system designed for learning and demonstrating programming concepts.
+
